@@ -14,7 +14,7 @@
         android:layout_marginBottom="320dp"
         android:text="Explore Kotlin's Finest:\nUnveiling the Most Popular \nGitHub Repositories!"
         android:textAlignment="center"
-        android:textColor="#828594"
+        android:textColor="#8F919E"
         android:textSize="24dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
