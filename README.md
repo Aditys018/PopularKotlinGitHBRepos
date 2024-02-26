@@ -17,9 +17,6 @@
 
 
 
-
-
-
 ## About
 This project aims to provide users with a seamless way to explore popular Kotlin repositories directly from their Android devices. Additionally, it serves as a valuable resource for developers, enthusiasts, recruiters, and learners within the Kotlin development community, facilitating discovery, learning, collaboration, and networking.
 
