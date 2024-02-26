@@ -16,6 +16,9 @@
 <img src="https://github.com/Aditys018/PopularKotlinGitHBRepos/assets/100122761/09609755-b11a-4dbb-b49a-07ae2ecdcb3e" width="200" height="400" align="center" alt="Screenshot2">
 
 
+<img src="https://github.com/Aditys018/PopularKotlinGitHBRepos/assets/100122761/2ad8dcf6-c312-4963-bf2f-23bbdc1b5d4f"  width="200" height="400" align="center" alt="Screenshot2">
+
+
 
 ## About
 This project aims to provide users with a seamless way to explore popular Kotlin repositories directly from their Android devices. Additionally, it serves as a valuable resource for developers, enthusiasts, recruiters, and learners within the Kotlin development community, facilitating discovery, learning, collaboration, and networking.
