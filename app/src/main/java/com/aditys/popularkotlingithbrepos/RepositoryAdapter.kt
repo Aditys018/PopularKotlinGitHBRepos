@@ -17,7 +17,7 @@ class RepositoryAdapter(var repositories: List<Repository>, private val onItemCl
 
         init {
             itemView.setOnClickListener {
-                onItemClick(repositories[adapterPosition].html_url) // Use html_url instead of url
+                onItemClick(repositories[adapterPosition].html_url)
             }
         }
     }
